@@ -2,7 +2,7 @@
 # =============================================================
 # menu.sh — Linux Lab Toolkit Startup Menu
 # Runs automatically when the Docker container starts.
-# Author: [Your Name] — IT135 Introduction to Linux, NSC WN26
+# Author: Deseray Ruiz — IT135 Introduction to Linux, NSC WN26
 # =============================================================
 
 # --- COLORS ---
