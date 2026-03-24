@@ -44,7 +44,7 @@ while true; do
             clear
             echo -e "${GREEN}Launching screensaver menu...${RESET}"
             sleep 1
-            bash /app/screensaver.sh
+            bbash /workspaces/WN2026-IT135-Final-Project/screensaver.sh
             ;;
         2)
             clear
