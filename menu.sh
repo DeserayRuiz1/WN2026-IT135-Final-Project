@@ -44,13 +44,13 @@ while true; do
             clear
             echo -e "${GREEN}Launching screensaver menu...${RESET}"
             sleep 1
-            bbash /workspaces/WN2026-IT135-Final-Project/screensaver.sh
+            bash /workspaces/WN2026-IT135-Final-Project/screensaver.sh
             ;;
         2)
             clear
             echo -e "${GREEN}Launching Docker Project Setup...${RESET}"
             sleep 1
-            bash /app/docker-setup.sh
+            bash /workspaces/WN2026-IT135-Final-Project/docker-setup.sh
             ;;
         q|Q)
             clear
