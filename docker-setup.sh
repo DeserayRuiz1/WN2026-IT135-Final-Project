@@ -2,7 +2,7 @@
 # =============================================================
 # docker-setup.sh — Docker Project Scaffolding Tool
 # IT135 Introduction to Linux — Final Project Script
-# Author: [Your Name] — North Seattle College WN26
+# Author: Deseray Ruiz — North Seattle College WN26
 #
 # PURPOSE:
 #   Automates the repetitive task of setting up a new Docker
