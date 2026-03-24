@@ -14,7 +14,7 @@
 # --- CONFIGURATION ---
 # Path is set for the Docker container environment (/app)
 # Change BASE_DIR if running outside of Docker
-BASE_DIR="/app/bash-screensavers"
+BASE_DIR="/workspaces/WN2026-IT135-Final-Project/bash-screensavers"
 REPO_URL="https://github.com/attogram/bash-screensavers.git"
 
 # --- COLORS ---
@@ -36,7 +36,7 @@ if [ ! -f "$BASE_DIR/screensaver.sh" ]; then
     echo -e "  ${YELLOW}Screensavers not found. Downloading...${RESET}"
     echo "  This will only happen once!"
     echo ""
-    git clone "$REPO_URL" "$BASE_DIR"
+    git clone "$REPO_URL" "$BASE_DIR" --quiet
 
     # if/then — check the download actually worked
     if [ ! -f "$BASE_DIR/screensaver.sh" ]; then
