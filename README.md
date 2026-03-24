@@ -32,7 +32,7 @@ bash menu.sh
 
 ## Credits
 
-Terminal screensaver animations are sourced from the open source project  
+Terminal screensaver animations are sourced from the open-source project  
 **attogram/bash-screensavers** — https://github.com/attogram/bash-screensavers  
 Licensed under the MIT License. All animation code belongs to the original authors.  
 The launcher script (`screensaver.sh`), menu system, and `docker-setup.sh` are original work.
