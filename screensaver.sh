@@ -2,7 +2,7 @@
 # =============================================================
 # screensaver.sh — Linux Lab Ambiance Selector
 # IT135 Introduction to Linux — North Seattle College WN26
-# Author: [Your Name]
+# Author: Deseray Ruiz
 #
 # CREDITS:
 #   Screensaver animations sourced from the open source project:
